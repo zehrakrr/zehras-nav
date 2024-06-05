@@ -1,0 +1,27 @@
+.logo{
+   background: url(background.png) no-repeat; 
+    align-items: center;
+    justify-content: center;
+    background-position: center;
+    display: flex;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+}
+.fotograf img{
+  position: relative;
+    display: flex;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+.fotograf{
+    align-items: center;
+    justify-content: center;
+}
+
+
+
